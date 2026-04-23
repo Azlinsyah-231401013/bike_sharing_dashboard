@@ -1,2 +1,2 @@
-Dashboard Streamlit Cloud : https://bikesharingdashboardanalyst.streamlit.app/
-Repository GitHub : https://github.com/PriadiCuanda-231401058/Fundamental-Analisis-Data
+Dashboard Streamlit Cloud : 
+Repository GitHub : https://github.com/Azlinsyah-231401013/bike_sharing_dashboard
